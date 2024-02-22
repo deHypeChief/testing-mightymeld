@@ -1,0 +1,5 @@
+{
+	"devDependencies": {
+		"@mightymeld/runtime": "^0.1.48"
+	}
+}
